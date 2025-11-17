@@ -10,6 +10,6 @@ Para instalar el proyecto solo se necesita realizar los siguientes comandos para
 
         npm install
 
-Para correr el programa
+- Para correr el programa
 
         npm run dev
